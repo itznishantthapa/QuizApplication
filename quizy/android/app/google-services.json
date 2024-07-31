@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867131947335",
+    "project_id": "quizy-3vqjs5",
+    "storage_bucket": "quizy-3vqjs5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867131947335:android:c0c58fc07b1ab3acbe7462",
+        "android_client_info": {
+          "package_name": "com.mycompany.quizy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7Z3Mb1ue0H5b-5DUh9hWvfyqyF3CYQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
